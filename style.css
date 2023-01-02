@@ -1,0 +1,34 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+
+
+table{
+    margin: auto;
+}
+
+
+input{
+    font-size: 34px;
+    border: 3.5px solid;
+    border-radius: 20px;
+}
+
+
+button{
+    border-radius: 15px;
+    font-size: 23px;
+    background: rgb(127, 124, 124);
+    height: 58px;
+    width: 102px;
+}
+
+
+.box{
+    border: 2px solid #6e5757;
+    display: inline-block;
+    padding: 18px;
+    border-radius: 25px;
+    background-color: #c1b5b5;
+}
